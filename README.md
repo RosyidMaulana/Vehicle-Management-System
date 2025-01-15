@@ -45,3 +45,13 @@ Setelah mengunduh atau meng-clone seluruh resource kode, lakukan langkah berikut
 ## Link Kebutuhan Lainnya
 
 Klik [di sini](https://drive.google.com/drive/folders/1fsJiNjrEK_6t2wEpj6L0qMLrmF4iLy1_?usp=drive_link) untuk informasi Physical Data Model & Actifity Diagram - Proses Approval.
+
+<div align="center">
+    <h2>Activity Diagram Proses Approval 📊</h2>
+    <img src="https://github.com/RosyidMaulana/Aassets/blob/main/Actifity%20Diagram%20-%20Proses%20Approval.drawio.png" alt="Vehicle Management System Logo" width="300" />
+</div>
+
+<div align="center">
+    <h2>Physical Data Model 📊</h2>
+    <img src="https://github.com/RosyidMaulana/Aassets/blob/main/Physical%20Data%20Model%20Kebutuhan.png" alt="Vehicle Management System Logo" width="300" />
+</div>
