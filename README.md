@@ -1,9 +1,14 @@
-# Vehicle Management System
+
 
 <div align="center">
     <h1>🚗 Vehicle Management System 🚛</h1>
+    
 </div>
-
+<p align="justify">Mohon maaf atas keterlambatan informasi mengenai technical test untuk program internship Sekawan Media. Saya sangat menyesal telah melewatkan tahap ini dikarenakan kurangnya perhatian terhadap informasi terbaru.</p>
+    <p align="justify">Saya memahami bahwa waktu yang tersisa untuk menyelesaikan technical test sudah sangat singkat. Saat ini, proyek yang saya kerjakan masih dalam tahap Pengembangan Fitur akan tetapi dengan sudah memiliki database yang sudah optimal untuk memenuhi kebutuhan fitur yang diminta.</p>
+    <p align="justify">Oleh karena itu, saya sangat berharap dapat diberikan kesempatan untuk menyelesaikan technical test dalam waktu satu hari ke depan. Saya akan berusaha semaksimal mungkin untuk menyelesaikan semua tugas yang diberikan. </p>
+    <p align="justify">Terima kasih atas pengertian dan kesempatan yang diberikan.</p>
+    
 ## 🪄 Username dan Password
 
 | Username | Password | Login Sebagai                                      |
