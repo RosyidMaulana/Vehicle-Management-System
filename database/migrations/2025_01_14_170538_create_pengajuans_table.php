@@ -1,0 +1,36 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('pengajuan', function (Blueprint $table) {
+            $table->string('kode_pengajuan')->primary();
+            $table->string('deskripsi_pinjaman');
+            $table->date('mulai_pinjam');
+            $table->date('selesai_pinjam');
+            $table->integer('total_jarak');
+            $table->integer('total_anggaran');
+            $table->integer('status_appr');
+            $table->integer('status_appr_lv1');
+            $table->integer('status_appr_lv2');
+            $table->date('tgl_approved')->nullable();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('pengajuan');
+    }
+};
