@@ -4,10 +4,10 @@
     <h1>🚗 Vehicle Management System 🚛</h1>
     
 </div>
-<p align="justify">Mohon maaf atas keterlambatan informasi mengenai technical test untuk program internship Sekawan Media. Saya sangat menyesal telah melewatkan tahap ini dikarenakan kurangnya perhatian terhadap informasi terbaru.</p>
-    <p align="justify">Saya memahami bahwa waktu yang tersisa untuk menyelesaikan technical test sudah sangat singkat. Saat ini, proyek yang saya kerjakan masih dalam tahap Pengembangan Fitur akan tetapi dengan sudah memiliki database yang sudah optimal untuk memenuhi kebutuhan fitur yang diminta.</p>
-    <p align="justify">Oleh karena itu, saya sangat berharap dapat diberikan kesempatan untuk menyelesaikan technical test dalam waktu satu hari ke depan. Saya akan berusaha  untuk menyelesaikan semua tugas yang diberikan. Jika tidak begitu saya bersedia menjelaskan program secara lisan maupun tersurat</p>
-    <p align="justify">Terima kasih atas pengertian dan kesempatan yang diberikan.</p>
+<p align="justify">Saya ingin menyampaikan permohonan maaf atas kurangnya perhatian saya terhadap perkembangan informasi mengenai technical test untuk program internship di Sekawan Media. Selama dua hari terakhir, saya tidak mengikuti perkembangan terbaru sehingga baru menyadari bahwa technical test sudah dimulai dan waktu yang tersisa hingga batas akhir pengerjaan tinggal beberapa jam.</p>
+    <p align="justify">Saat ini, saya telah memulai pengerjaan proyek dan sedang berada dalam tahap pengembangan fitur. Selain itu, saya juga telah menyusun database yang optimal untuk mendukung kebutuhan fitur yang diminta. Namun, mengingat keterbatasan waktu, saya merasa perlu memohon perpanjangan waktu selama satu hari untuk dapat menyelesaikan tugas dengan baik dan sesuai harapan.</p>
+    <p align="justify">Jika perpanjangan waktu tidak memungkinkan, saya dengan senang hati bersedia memberikan penjelasan mengenai proyek yang saya kerjakan, baik secara lisan maupun tertulis.</p>
+    <p align="justify">Saya sangat menghargai kesempatan dan pengertian yang diberikan. Terima kasih atas perhatian dan dukungan Anda dalam proses ini.</p>
     
 ## 🪄 Username dan Password
 
